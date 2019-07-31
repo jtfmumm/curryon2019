@@ -2,7 +2,7 @@
 
 CurryOn London 2019 [Talk Page](https://www.curry-on.org/2019/sessions/safely-sharing-data-reference-capabilities-in-the-pony-programming-language.html)
 
-Video: ...
+Video: https://www.youtube.com/watch?v=u1JfYa413fY
 
 Slides: ...
 
